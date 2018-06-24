@@ -147,4 +147,12 @@ func main() {
 
 	fmt.Println(data)
 }
+
+//=> namesFn sleeping for 7s
+//=> listFn sleeping for 7s
+//=> filterFn sleeping for 1s
+//=> filterFn done!
+//=> namesFn done!
+//=> listFn done!
+//=> [Three!!! Floor!!! Fliveee!!! Szeven!!!]
 ```
